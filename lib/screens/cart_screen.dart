@@ -136,21 +136,6 @@ class CartScreenState extends State<CartScreen> {
               padding: EdgeInsets.all(20.0),
               child: Column(
                 children: <Widget>[
-                  // Row(
-                  //   mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                  //   children: <Widget>[
-                  //     Text(
-                  //       "Estimated Delivety Time: ",
-                  //       style: TextStyle(
-                  //           fontSize: 20.0, fontWeight: FontWeight.w600),
-                  //     ),
-                  //     Text(
-                  //       "20 minute ",
-                  //       style: TextStyle(
-                  //           fontSize: 20.0, fontWeight: FontWeight.w600),
-                  //     )
-                  //   ],
-                  // ),
                   SizedBox(height: 10.0),
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
